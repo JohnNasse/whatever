@@ -1,4 +1,4 @@
-remote_theme : jekyllup/jekyll-theme-massively
+#remote_theme : jekyllup/jekyll-theme-massively
 # Site
 title:              JoohoK's Technical Blog
 bio:                'Jekyll version of the Massively theme by HTML5UP'
